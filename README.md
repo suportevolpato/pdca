@@ -89,4 +89,4 @@ Proponha brainstorms para a solução dos principais problemas. Mais tarde, eles
 ## Ação (Act)
 Use as principais falhas como alvos dos próximos ciclos PDCA.  
 
-![assinatura](/images/EduardoAlthaus.jpg)  
+![assinatura](/images/logo-volpato-small.png)  
